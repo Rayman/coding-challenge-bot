@@ -80,5 +80,5 @@ class Kadabra(D):
 	def __init__(A):super().__init__(1)
 	def get_name(A):return L
 class Alakazam(D):
-	def __init__(A):super().__init__(3)
+	def __init__(A):super().__init__(5)
 	def get_name(A):return M
