@@ -1,5 +1,5 @@
 __pycache__/
 *.py[cod]
 build/
-smarter_min.py
-search_min.py
+astar_min.py
+dfs_min.py
