@@ -1,3 +1,7 @@
+"""
+A coding challenge bot that searches for the best move by going trough all combination of moves
+"""
+
 from abc import ABC, abstractmethod
 from random import choice
 

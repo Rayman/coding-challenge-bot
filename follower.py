@@ -1,3 +1,7 @@
+"""
+A coding challenge bot that tries to chases random enemies
+"""
+
 from random import randrange, choice
 
 import numpy as np

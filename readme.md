@@ -1,5 +1,6 @@
-# Bot Template: Rambo The Rando
+# Coding challenge bots by Rayman
 
-This bot acts as an template for future bot submissions for the Nobleo Colour Battle Coding Challenge.
-
-Chooses a random location on the grid and charges towards it. Not to be underestimated.
+- [./greedy.py](./greedy.py) My first bot submission
+- [./dfs.py](./dfs.py) My second bot submission
+- [./astar.py](./astar.py) My final bot submission
+- [./follower.py](./follower.py) A bot to test deadlock situations

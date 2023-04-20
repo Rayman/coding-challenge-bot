@@ -1,3 +1,10 @@
+"""
+A coding challenge bot that searches for the best move with the A* algorithm
+
+It gives the same outcomes as the previous bot that just looked trough all possible moves, but with A* we can use a
+heuristic to expand better nodes first and quit really early when there are no better moves.
+"""
+
 from abc import ABC, abstractmethod
 from collections import deque
 from heapq import heappush, heappop

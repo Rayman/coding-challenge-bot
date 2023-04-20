@@ -1,3 +1,7 @@
+"""
+A coding challenge bot that tries to determine the best move by looking at the squares next to it\
+"""
+
 from random import choice
 
 import numpy as np
